@@ -1,0 +1,1 @@
+cmd_/home/root/opencl_arm32_rte/board/c5soc/driver/aclsoc_drv.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/root/opencl_arm32_rte/board/c5soc/driver/aclsoc_drv.ko /home/root/opencl_arm32_rte/board/c5soc/driver/aclsoc_drv.o /home/root/opencl_arm32_rte/board/c5soc/driver/aclsoc_drv.mod.o
