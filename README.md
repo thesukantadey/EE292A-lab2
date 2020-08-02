@@ -1,3 +1,5 @@
+# Stanford EE292A: Electronic Design Automation (EDA) and Machine Learning Hardware
+
 # Lab 2: Building a Convolutional Neural Network
 
 ## Introduction
